@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "email": "krishankant@ashmar.in",
+      "id": 1,
+      "name": "krishankant",
+      "password": "Virus@#321",
+      "role": "Developer"
+    },
+    {
+      "id": 2,
+      "name": "Krishankant",
+      "email": "krishankant349@gmail.com",
+      "password": "Bella@#321",
+      "role": "Developer"
+    },
+    {
+        "email": "krishankant@ashmar.in",
+        "id": 3,
+        "name": "krishankant",
+        "password": "Virus@#321",
+        "role": "Developer"
+      },
+      {
+        "id": 4,
+        "name": "Krishankant",
+        "email": "krishankant349@gmail.com",
+        "password": "Bella@#321",
+        "role": "Developer"
+      },
+      {
+        "email": "krishankant@ashmar.in",
+        "id": 5,
+        "name": "krishankant",
+        "password": "Virus@#321",
+        "role": "Developer"
+      },
+      {
+        "id": 6,
+        "name": "Krishankant",
+        "email": "krishankant349@gmail.com",
+        "password": "Bella@#321",
+        "role": "Developer"
+      },
+      {
+        "email": "krishankant@ashmar.in",
+        "id": 7,
+        "name": "krishankant",
+        "password": "Virus@#321",
+        "role": "Developer"
+      },
+      {
+        "id": 8,
+        "name": "Krishankant",
+        "email": "krishankant349@gmail.com",
+        "password": "Bella@#321",
+        "role": "Developer"
+      }
+  ]
+}
